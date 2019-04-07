@@ -30,7 +30,7 @@ body, html{
 
 }
 
-.simmer{
+.bleakfiber{
     position:absolute;
     bottom:10px;
     right:10px;
@@ -43,7 +43,7 @@ body, html{
     /*display:none;*/
 }
 
-.simmer a{
+.bleakfiber{
     color:#cccccc;
     text-decoration:none;
     font-size:12px;
@@ -51,13 +51,13 @@ body, html{
 
 }
 
-.simmer a:hover{
+.bleakfiber a:hover{
     color:#fff;
     text-decoration:underline;
 }
 
-.simmer.hide {
+/*.bleakfiber.hide {
     opacity:0;
-}
+}*/
 
 
